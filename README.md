@@ -3,12 +3,11 @@
 #### By **Wgathagu**
 ## Description
 Open below link on any browser
-
+https://wgathagu.github.io/webpage_example/
 ## Setup/Installation Requirements
 * Install any Browser
 * Ensure you have internet connection
-* Open link on the browser
-
+* Open link on the browser https://wgathagu.github.io/webpage_example/
 ## Known Bugs
 No Known Bugs
 ## Technologies Used
